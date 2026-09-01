@@ -8,7 +8,7 @@ The results are ordered by how close they match your search, and if you're getti
 
 The LockPickingLawyer and BosnianBill have no connection with this site, it's just a search front-end to their publicly-available YouTube playlists.
 
-This project is created purely for fun and out of respect for these titans' contributions to locksport and security education.
+This project is created purely for fun and out of respect for the contribution these titans have made to locksport and security education.
 
 ## Visit
 
