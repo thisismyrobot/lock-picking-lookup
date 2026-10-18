@@ -1,16 +1,6 @@
 {
   "dataset": [
     {
-      "fullTitle": "(2) Burg Wächter Boccia 450/40 Dimple Padlock Raked Open",
-      "id": "8FaOv_ebv9A",
-      "manufacturer": "Burg Wächter",
-      "number": 2,
-      "playlistId": "PLTSWkYxuSlkW_G_3Ml-R6qD7eZ8u1fxSy",
-      "prefix": "bb",
-      "shortTitle": "Burg Wächter Boccia 450/40 Dimple Padlock Raked Open",
-      "url": "https://www.youtube.com/watch?v=8FaOv_ebv9A"
-    },
-    {
       "fullTitle": "(3) Burg Wächter Boccia 450/50 Dimple Padlock Raked",
       "id": "SQug-z97kpY",
       "manufacturer": "Burg Wächter",
@@ -61,14 +51,14 @@
       "url": "https://www.youtube.com/watch?v=ZrXwsg0lDVU"
     },
     {
-      "fullTitle": "(9) Abus EC850 Euro Cylinder Dimple Lock Bumped Open",
-      "id": "qw-7dGamtF0",
+      "fullTitle": "(8) Abus Diskus 25/70 Dimple Padlock Bumped Open",
+      "id": "HTqGCH0611I",
       "manufacturer": "ABUS",
-      "number": 9,
+      "number": 8,
       "playlistId": "PLTSWkYxuSlkW_G_3Ml-R6qD7eZ8u1fxSy",
       "prefix": "bb",
-      "shortTitle": "Abus EC850 Euro Cylinder Dimple Lock Bumped Open",
-      "url": "https://www.youtube.com/watch?v=qw-7dGamtF0"
+      "shortTitle": "Abus Diskus 25/70 Dimple Padlock Bumped Open",
+      "url": "https://www.youtube.com/watch?v=HTqGCH0611I"
     },
     {
       "fullTitle": "(10) Croix 10 Pin Dimple Euro Cylinder Raked",
@@ -119,36 +109,6 @@
       "prefix": "bb",
       "shortTitle": "Defeat Fuloy Disc Detainer Padlock by Exploiting a Design Defect",
       "url": "https://www.youtube.com/watch?v=eo8yiZcz7CU"
-    },
-    {
-      "fullTitle": "(15) Defeat Hermex Disc Detainer Padlock by Exploiting a Design Defect",
-      "id": "YIi7-Z7QjyQ",
-      "manufacturer": null,
-      "number": 15,
-      "playlistId": "PLTSWkYxuSlkW_G_3Ml-R6qD7eZ8u1fxSy",
-      "prefix": "bb",
-      "shortTitle": "Defeat Hermex Disc Detainer Padlock by Exploiting a Design Defect",
-      "url": "https://www.youtube.com/watch?v=YIi7-Z7QjyQ"
-    },
-    {
-      "fullTitle": "(16) Defeat Kiko Disc Detainer Padlock by Exploiting a Design Defect",
-      "id": "MorRxZDjL8M",
-      "manufacturer": null,
-      "number": 16,
-      "playlistId": "PLTSWkYxuSlkW_G_3Ml-R6qD7eZ8u1fxSy",
-      "prefix": "bb",
-      "shortTitle": "Defeat Kiko Disc Detainer Padlock by Exploiting a Design Defect",
-      "url": "https://www.youtube.com/watch?v=MorRxZDjL8M"
-    },
-    {
-      "fullTitle": "(17) Beating (Picking) the American Series 7260 Tubular Padlock",
-      "id": "qqfCtbuLMZ0",
-      "manufacturer": "American",
-      "number": 17,
-      "playlistId": "PLTSWkYxuSlkW_G_3Ml-R6qD7eZ8u1fxSy",
-      "prefix": "bb",
-      "shortTitle": "Beating (Picking) the American Series 7260 Tubular Padlock",
-      "url": "https://www.youtube.com/watch?v=qqfCtbuLMZ0"
     },
     {
       "fullTitle": "(18) How to Beat Mushroom and Spool Security Pins",
@@ -581,16 +541,6 @@
       "url": "https://www.youtube.com/watch?v=2yYDJVEVxak"
     },
     {
-      "fullTitle": "(61) Salvaging a Master Lock Pro Series 7050",
-      "id": "nmwrvePb7hA",
-      "manufacturer": "Master Lock",
-      "number": 61,
-      "playlistId": "PLTSWkYxuSlkW_G_3Ml-R6qD7eZ8u1fxSy",
-      "prefix": "bb",
-      "shortTitle": "Salvaging a Master Lock Pro Series 7050",
-      "url": "https://www.youtube.com/watch?v=nmwrvePb7hA"
-    },
-    {
       "fullTitle": "(62) How to Pick Sargent & Greenleaf Model 0881 Environmental Padlock",
       "id": "gzbhgiwAZCw",
       "manufacturer": "Sargent",
@@ -619,16 +569,6 @@
       "prefix": "bb",
       "shortTitle": "Master Lock 532 Picked Open & GUTTED!!!",
       "url": "https://www.youtube.com/watch?v=9Jew6q5Rzhk"
-    },
-    {
-      "fullTitle": "(65) Antique Yale & Towne U.S. Government Padlock",
-      "id": "O3f0t4YmDag",
-      "manufacturer": "Yale",
-      "number": 65,
-      "playlistId": "PLTSWkYxuSlkW_G_3Ml-R6qD7eZ8u1fxSy",
-      "prefix": "bb",
-      "shortTitle": "Antique Yale & Towne U.S. Government Padlock",
-      "url": "https://www.youtube.com/watch?v=O3f0t4YmDag"
     },
     {
       "fullTitle": "(66) American U.S. Government Issue Padlock Picked Open",
@@ -691,16 +631,6 @@
       "url": "https://www.youtube.com/watch?v=LoYCNXkQaRQ"
     },
     {
-      "fullTitle": "(72) Viro Panzer Armored Padlock 7-Pin Model 4116 SPP'd",
-      "id": "xNvdoljFI_k",
-      "manufacturer": null,
-      "number": 72,
-      "playlistId": "PLTSWkYxuSlkW_G_3Ml-R6qD7eZ8u1fxSy",
-      "prefix": "bb",
-      "shortTitle": "Viro Panzer Armored Padlock 7-Pin Model 4116 SPP'd",
-      "url": "https://www.youtube.com/watch?v=xNvdoljFI_k"
-    },
-    {
       "fullTitle": "(73) Brinks 50mm Maximum Security Padlock Picked",
       "id": "4sFQTvLfPeI",
       "manufacturer": "Brinks",
@@ -709,16 +639,6 @@
       "prefix": "bb",
       "shortTitle": "Brinks 50mm Maximum Security Padlock Picked",
       "url": "https://www.youtube.com/watch?v=4sFQTvLfPeI"
-    },
-    {
-      "fullTitle": "(74) Brinks 60mm Maximum Security Padlock Picked & Shimmed",
-      "id": "ZOK3Fl2voqI",
-      "manufacturer": "Brinks",
-      "number": 74,
-      "playlistId": "PLTSWkYxuSlkW_G_3Ml-R6qD7eZ8u1fxSy",
-      "prefix": "bb",
-      "shortTitle": "Brinks 60mm Maximum Security Padlock Picked & Shimmed",
-      "url": "https://www.youtube.com/watch?v=ZOK3Fl2voqI"
     },
     {
       "fullTitle": "(75) Abus Diskus 28/70 Padlock Picked Open",
@@ -951,16 +871,6 @@
       "url": "https://www.youtube.com/watch?v=EZGZ15wPfsw"
     },
     {
-      "fullTitle": "(98) Tough Under Fire (Phase I) Master Lock versus 7.62 NATO",
-      "id": "kvYhA9c_F_g",
-      "manufacturer": "Master Lock",
-      "number": 98,
-      "playlistId": "PLTSWkYxuSlkW_G_3Ml-R6qD7eZ8u1fxSy",
-      "prefix": "bb",
-      "shortTitle": "Tough Under Fire (Phase I) Master Lock versus 7.62 NATO",
-      "url": "https://www.youtube.com/watch?v=kvYhA9c_F_g"
-    },
-    {
       "fullTitle": "(99) U.S. Lock Padlock SPP'd and Gutted",
       "id": "R1i2wu_vlV0",
       "manufacturer": null,
@@ -1029,16 +939,6 @@
       "prefix": "bb",
       "shortTitle": "Review: A-1 Security \"Herty Gerty\" Tubular Key Cutter",
       "url": "https://www.youtube.com/watch?v=abfhQC7RyOk"
-    },
-    {
-      "fullTitle": "(106) Review: Cross Tryout Keys (also Cruciform or Zeiss Locks)",
-      "id": "GGOlqVzXzao",
-      "manufacturer": null,
-      "number": 106,
-      "playlistId": "PLTSWkYxuSlkW_G_3Ml-R6qD7eZ8u1fxSy",
-      "prefix": "bb",
-      "shortTitle": "Review: Cross Tryout Keys (also Cruciform or Zeiss Locks)",
-      "url": "https://www.youtube.com/watch?v=GGOlqVzXzao"
     },
     {
       "fullTitle": "(107) Review: Majestic High Tech Wiggler Rakes (JUNK!)",
@@ -1241,6 +1141,16 @@
       "url": "https://www.youtube.com/watch?v=ZlgopxLaUPo"
     },
     {
+      "fullTitle": "(127) How to Rekey your Almonte Rekeyable Padlock (and Watch Bosnianbill Screw Up)",
+      "id": "WoCIh-ZIsdA",
+      "manufacturer": null,
+      "number": 127,
+      "playlistId": "PLTSWkYxuSlkW_G_3Ml-R6qD7eZ8u1fxSy",
+      "prefix": "bb",
+      "shortTitle": "How to Rekey your Almonte Rekeyable Padlock (and Watch Bosnianbill Screw Up)",
+      "url": "https://www.youtube.com/watch?v=WoCIh-ZIsdA"
+    },
+    {
       "fullTitle": "(128) Correct Master Lock Design Change on American 5200 Series Padlocks",
       "id": "u4yIz18mCEw",
       "manufacturer": "Master Lock",
@@ -1289,16 +1199,6 @@
       "prefix": "bb",
       "shortTitle": "Bosca 7-Pin Dimple Euro Cylinder SPP'd",
       "url": "https://www.youtube.com/watch?v=JU86_kst500"
-    },
-    {
-      "fullTitle": "(133) Concept 15 Pin Cruciform Cross Cylinder SPP'd",
-      "id": "oxjTS_A22g4",
-      "manufacturer": null,
-      "number": 133,
-      "playlistId": "PLTSWkYxuSlkW_G_3Ml-R6qD7eZ8u1fxSy",
-      "prefix": "bb",
-      "shortTitle": "Concept 15 Pin Cruciform Cross Cylinder SPP'd",
-      "url": "https://www.youtube.com/watch?v=oxjTS_A22g4"
     },
     {
       "fullTitle": "(134) Hermex CH-50 Padlock SPP'd, Raked, Shimmed and Bypassed...whew!",
@@ -1621,16 +1521,6 @@
       "url": "https://www.youtube.com/watch?v=t7vQv5xjRyI"
     },
     {
-      "fullTitle": "(166) Best Padlock PKS WC Keyway Picked Open to Control AGAIN!",
-      "id": "9bEdlW_wIJ8",
-      "manufacturer": "BEST",
-      "number": 166,
-      "playlistId": "PLTSWkYxuSlkW_G_3Ml-R6qD7eZ8u1fxSy",
-      "prefix": "bb",
-      "shortTitle": "Best Padlock PKS WC Keyway Picked Open to Control AGAIN!",
-      "url": "https://www.youtube.com/watch?v=9bEdlW_wIJ8"
-    },
-    {
       "fullTitle": "(167) Master Lock Screws Up AGAIN!!!  WHAT are you guys THINKING?",
       "id": "K4kiHdUTGZA",
       "manufacturer": "Master Lock",
@@ -1679,16 +1569,6 @@
       "prefix": "bb",
       "shortTitle": "Package of Locks From POLAND!",
       "url": "https://www.youtube.com/watch?v=F75n2QREaSY"
-    },
-    {
-      "fullTitle": "(172) Yeti (Polish) 10-Pin Lock Picked Open (THANKS MantukaSNK!!!)",
-      "id": "Ej9UZpSWjGs",
-      "manufacturer": null,
-      "number": 172,
-      "playlistId": "PLTSWkYxuSlkW_G_3Ml-R6qD7eZ8u1fxSy",
-      "prefix": "bb",
-      "shortTitle": "Yeti (Polish) 10-Pin Lock Picked Open (THANKS MantukaSNK!!!)",
-      "url": "https://www.youtube.com/watch?v=Ej9UZpSWjGs"
     },
     {
       "fullTitle": "(173) Two Weeks with a Medeco",
@@ -1779,16 +1659,6 @@
       "prefix": "bb",
       "shortTitle": "Tough Under Fire (Phase IV): Master Lock versus .22 LR",
       "url": "https://www.youtube.com/watch?v=aT-3kOgV4oY"
-    },
-    {
-      "fullTitle": "(182) Tough Under Fire (Phase V): Master Lock versus 12 Gauge",
-      "id": "R6motByo7BQ",
-      "manufacturer": "Master Lock",
-      "number": 182,
-      "playlistId": "PLTSWkYxuSlkW_G_3Ml-R6qD7eZ8u1fxSy",
-      "prefix": "bb",
-      "shortTitle": "Tough Under Fire (Phase V): Master Lock versus 12 Gauge",
-      "url": "https://www.youtube.com/watch?v=R6motByo7BQ"
     },
     {
       "fullTitle": "(183) Locks from JeffMoss: American Mortise Cylinder Picked Open & Gutted",
@@ -1941,16 +1811,6 @@
       "url": "https://www.youtube.com/watch?v=1EMvg62j6aY"
     },
     {
-      "fullTitle": "(198) Abus 82/70 Picked Open (Mushroom Pins for Beginners)",
-      "id": "7eVYFChxFpQ",
-      "manufacturer": "ABUS",
-      "number": 198,
-      "playlistId": "PLTSWkYxuSlkW_G_3Ml-R6qD7eZ8u1fxSy",
-      "prefix": "bb",
-      "shortTitle": "Abus 82/70 Picked Open (Mushroom Pins for Beginners)",
-      "url": "https://www.youtube.com/watch?v=7eVYFChxFpQ"
-    },
-    {
       "fullTitle": "(199) Master Lock 1155D 6-Pin Dimple Padlock Picked",
       "id": "OXT-s7oF33c",
       "manufacturer": "Master Lock",
@@ -2069,6 +1929,16 @@
       "prefix": "bb",
       "shortTitle": "Sargent LFIC - SELIM Lock - Picked Open & Gutted (Thanks MrESurm!!)",
       "url": "https://www.youtube.com/watch?v=xlJ1sKdbZUg"
+    },
+    {
+      "fullTitle": "(211) BiLock Cylinder in a Lockwood Padlock (Thanks S1deshowmick!!)",
+      "id": "mADvMQN1tYg",
+      "manufacturer": "Lockwood",
+      "number": 211,
+      "playlistId": "PLTSWkYxuSlkW_G_3Ml-R6qD7eZ8u1fxSy",
+      "prefix": "bb",
+      "shortTitle": "BiLock Cylinder in a Lockwood Padlock (Thanks S1deshowmick!!)",
+      "url": "https://www.youtube.com/watch?v=mADvMQN1tYg"
     },
     {
       "fullTitle": "(212) Lockwood 6-Pin Picked Open & Gutted (Thanks Alex Blate!!)",
@@ -2291,6 +2161,16 @@
       "url": "https://www.youtube.com/watch?v=QwomdJnS-fw"
     },
     {
+      "fullTitle": "(234) Zeiss Ikon Euro Cylinder Opening Tips",
+      "id": "bpmlFOsgYHU",
+      "manufacturer": null,
+      "number": 234,
+      "playlistId": "PLTSWkYxuSlkW_G_3Ml-R6qD7eZ8u1fxSy",
+      "prefix": "bb",
+      "shortTitle": "Zeiss Ikon Euro Cylinder Opening Tips",
+      "url": "https://www.youtube.com/watch?v=bpmlFOsgYHU"
+    },
+    {
       "fullTitle": "(235) Fort Knox Rim Cylinder Picked, Raked & Zipped Open (and Hyena cubs)",
       "id": "9uN7KBleVNM",
       "manufacturer": null,
@@ -2401,16 +2281,6 @@
       "url": "https://www.youtube.com/watch?v=IMF7I8_uuLY"
     },
     {
-      "fullTitle": "(246) U-Change Lock Cylinder - EASILY Bypassed (JUNK!)",
-      "id": "T_ZdAkjShwE",
-      "manufacturer": null,
-      "number": 246,
-      "playlistId": "PLTSWkYxuSlkW_G_3Ml-R6qD7eZ8u1fxSy",
-      "prefix": "bb",
-      "shortTitle": "U-Change Lock Cylinder - EASILY Bypassed (JUNK!)",
-      "url": "https://www.youtube.com/watch?v=T_ZdAkjShwE"
-    },
-    {
       "fullTitle": "(247) The Secret to Opening Evva Locks",
       "id": "bIXU-xpnQlc",
       "manufacturer": "EVVA",
@@ -2439,6 +2309,16 @@
       "prefix": "bb",
       "shortTitle": "ASSA Twin Combi with Passive Sidebar Picked Open & Gutted",
       "url": "https://www.youtube.com/watch?v=pX7criza0zM"
+    },
+    {
+      "fullTitle": "(250) Abus 90/50 Titalium Picked Open & Gutted",
+      "id": "mXpqjfLxyPs",
+      "manufacturer": "ABUS",
+      "number": 250,
+      "playlistId": "PLTSWkYxuSlkW_G_3Ml-R6qD7eZ8u1fxSy",
+      "prefix": "bb",
+      "shortTitle": "Abus 90/50 Titalium Picked Open & Gutted",
+      "url": "https://www.youtube.com/watch?v=mXpqjfLxyPs"
     },
     {
       "fullTitle": "(251) Psychological Warfare & Your Lockpicking Buddies",
@@ -2631,16 +2511,6 @@
       "url": "https://www.youtube.com/watch?v=B-zGO6KZjno"
     },
     {
-      "fullTitle": "(270) Ruko Designed by the Devil - Opened & Gutted",
-      "id": "1ekz-RFpYsg",
-      "manufacturer": "Ruko",
-      "number": 270,
-      "playlistId": "PLTSWkYxuSlkW_G_3Ml-R6qD7eZ8u1fxSy",
-      "prefix": "bb",
-      "shortTitle": "Ruko Designed by the Devil - Opened & Gutted",
-      "url": "https://www.youtube.com/watch?v=1ekz-RFpYsg"
-    },
-    {
       "fullTitle": "(271) Selim Lock! Picked Open & Gutted",
       "id": "fxC50SdZC6s",
       "manufacturer": null,
@@ -2679,16 +2549,6 @@
       "prefix": "bb",
       "shortTitle": "Corbin Mortise Cylinder Lock Picked Open & Gutted",
       "url": "https://www.youtube.com/watch?v=HIj9I_CLYao"
-    },
-    {
-      "fullTitle": "(275) LockSport Hurting Santoro Crime Syndicate",
-      "id": "hW8BcnO5ZTE",
-      "manufacturer": null,
-      "number": 275,
-      "playlistId": "PLTSWkYxuSlkW_G_3Ml-R6qD7eZ8u1fxSy",
-      "prefix": "bb",
-      "shortTitle": "LockSport Hurting Santoro Crime Syndicate",
-      "url": "https://www.youtube.com/watch?v=hW8BcnO5ZTE"
     },
     {
       "fullTitle": "(276) Anti-Disturbance Alarm Lock with Smiley Keyway",
@@ -2769,16 +2629,6 @@
       "prefix": "bb",
       "shortTitle": "Yeti Disc Detainer Padlock Picked Open",
       "url": "https://www.youtube.com/watch?v=3TrBM8i_YK4"
-    },
-    {
-      "fullTitle": "(284) Elzett \"Tutius\" Padlock (Hungarian) Picked Open",
-      "id": "8xUOuxujvTE",
-      "manufacturer": null,
-      "number": 284,
-      "playlistId": "PLTSWkYxuSlkW_G_3Ml-R6qD7eZ8u1fxSy",
-      "prefix": "bb",
-      "shortTitle": "Elzett \"Tutius\" Padlock (Hungarian) Picked Open",
-      "url": "https://www.youtube.com/watch?v=8xUOuxujvTE"
     },
     {
       "fullTitle": "(285) Italian Euro Cylinder Picked & Raked Open",
@@ -2881,6 +2731,16 @@
       "url": "https://www.youtube.com/watch?v=cE4Lr2GkuEE"
     },
     {
+      "fullTitle": "(296) Milano 7-Pin Euro Cylinder Picked & Raked Open",
+      "id": "8-ZBUqlO0E4",
+      "manufacturer": null,
+      "number": 296,
+      "playlistId": "PLTSWkYxuSlkW_G_3Ml-R6qD7eZ8u1fxSy",
+      "prefix": "bb",
+      "shortTitle": "Milano 7-Pin Euro Cylinder Picked & Raked Open",
+      "url": "https://www.youtube.com/watch?v=8-ZBUqlO0E4"
+    },
+    {
       "fullTitle": "(297) Rarlux (Chinese) 50mm Padlock Picked & Rocked Open",
       "id": "Rb2fTy_9CSI",
       "manufacturer": null,
@@ -2979,6 +2839,26 @@
       "prefix": "bb",
       "shortTitle": "New stuff in the Lock Lab",
       "url": "https://www.youtube.com/watch?v=nXM0f3eYxiY"
+    },
+    {
+      "fullTitle": "(307) Antique Ilco Padlock Picked Open & Shimmed",
+      "id": "YmbYsq0Qq5Q",
+      "manufacturer": "Ilco",
+      "number": 307,
+      "playlistId": "PLTSWkYxuSlkW_G_3Ml-R6qD7eZ8u1fxSy",
+      "prefix": "bb",
+      "shortTitle": "Antique Ilco Padlock Picked Open & Shimmed",
+      "url": "https://www.youtube.com/watch?v=YmbYsq0Qq5Q"
+    },
+    {
+      "fullTitle": "(308) Antique Schlage 6-Pin Padlock Picked Open",
+      "id": "6twqRTtBxxU",
+      "manufacturer": "Schlage",
+      "number": 308,
+      "playlistId": "PLTSWkYxuSlkW_G_3Ml-R6qD7eZ8u1fxSy",
+      "prefix": "bb",
+      "shortTitle": "Antique Schlage 6-Pin Padlock Picked Open",
+      "url": "https://www.youtube.com/watch?v=6twqRTtBxxU"
     },
     {
       "fullTitle": "(309) Kerpeesh's Threat Motivates the Lock Lab...",
@@ -3101,6 +2981,16 @@
       "url": "https://www.youtube.com/watch?v=6dsk9v6u6l8"
     },
     {
+      "fullTitle": "(321) Famous (Really!) Euro Cylinder Picked Open & Raked",
+      "id": "1YMdCLkTY6I",
+      "manufacturer": null,
+      "number": 321,
+      "playlistId": "PLTSWkYxuSlkW_G_3Ml-R6qD7eZ8u1fxSy",
+      "prefix": "bb",
+      "shortTitle": "Famous (Really!) Euro Cylinder Picked Open & Raked",
+      "url": "https://www.youtube.com/watch?v=1YMdCLkTY6I"
+    },
+    {
       "fullTitle": "(322) Handling T-Pins",
       "id": "JXqI__9i_ao",
       "manufacturer": null,
@@ -3109,6 +2999,16 @@
       "prefix": "bb",
       "shortTitle": "Handling T-Pins",
       "url": "https://www.youtube.com/watch?v=JXqI__9i_ao"
+    },
+    {
+      "fullTitle": "(323) Winkhaus Picked Open & Gutted",
+      "id": "bDrMD9t6YX0",
+      "manufacturer": "Winkhaus",
+      "number": 323,
+      "playlistId": "PLTSWkYxuSlkW_G_3Ml-R6qD7eZ8u1fxSy",
+      "prefix": "bb",
+      "shortTitle": "Winkhaus Picked Open & Gutted",
+      "url": "https://www.youtube.com/watch?v=bDrMD9t6YX0"
     },
     {
       "fullTitle": "(324) PACLOCKs Picked Open, Raked and Dissected (JUNK!)",
@@ -3121,6 +3021,16 @@
       "url": "https://www.youtube.com/watch?v=kq2-oBBblQg"
     },
     {
+      "fullTitle": "(325) Gege Euro Profile Picked Open",
+      "id": "BgWEdR8fgck",
+      "manufacturer": null,
+      "number": 325,
+      "playlistId": "PLTSWkYxuSlkW_G_3Ml-R6qD7eZ8u1fxSy",
+      "prefix": "bb",
+      "shortTitle": "Gege Euro Profile Picked Open",
+      "url": "https://www.youtube.com/watch?v=BgWEdR8fgck"
+    },
+    {
       "fullTitle": "(326) Ruko Picked Open & Gutted (Thanks  Emmett!)",
       "id": "LaKoJIyjzrM",
       "manufacturer": "Ruko",
@@ -3131,16 +3041,6 @@
       "url": "https://www.youtube.com/watch?v=LaKoJIyjzrM"
     },
     {
-      "fullTitle": "(327) Unusual Motorcycle Lock (Chinese)",
-      "id": "bm-DFgM4mNs",
-      "manufacturer": null,
-      "number": 327,
-      "playlistId": "PLTSWkYxuSlkW_G_3Ml-R6qD7eZ8u1fxSy",
-      "prefix": "bb",
-      "shortTitle": "Unusual Motorcycle Lock (Chinese)",
-      "url": "https://www.youtube.com/watch?v=bm-DFgM4mNs"
-    },
-    {
       "fullTitle": "(328) PACLOCK - The NEW Generation (Great Locks!)",
       "id": "yANsnaH3ick",
       "manufacturer": "PACLOCK",
@@ -3149,6 +3049,16 @@
       "prefix": "bb",
       "shortTitle": "PACLOCK - The NEW Generation (Great Locks!)",
       "url": "https://www.youtube.com/watch?v=yANsnaH3ick"
+    },
+    {
+      "fullTitle": "(329) Abus Euro Dimple Picked Open",
+      "id": "hltZq8WVV7M",
+      "manufacturer": "ABUS",
+      "number": 329,
+      "playlistId": "PLTSWkYxuSlkW_G_3Ml-R6qD7eZ8u1fxSy",
+      "prefix": "bb",
+      "shortTitle": "Abus Euro Dimple Picked Open",
+      "url": "https://www.youtube.com/watch?v=hltZq8WVV7M"
     },
     {
       "fullTitle": "(330) Baldwin Picked Open & Gutted (Challenge Lock)",
@@ -3259,6 +3169,26 @@
       "prefix": "bb",
       "shortTitle": "Fealty (Zanzibar) Shutter Lock Slapped Around",
       "url": "https://www.youtube.com/watch?v=cVwYERISC3c"
+    },
+    {
+      "fullTitle": "(341) Try Rhumb Padlock Punked in Zanzibar",
+      "id": "f9-0Ml9xlek",
+      "manufacturer": null,
+      "number": 341,
+      "playlistId": "PLTSWkYxuSlkW_G_3Ml-R6qD7eZ8u1fxSy",
+      "prefix": "bb",
+      "shortTitle": "Try Rhumb Padlock Punked in Zanzibar",
+      "url": "https://www.youtube.com/watch?v=f9-0Ml9xlek"
+    },
+    {
+      "fullTitle": "(342) Package from SELIM!!!",
+      "id": "VSW0e6GD52w",
+      "manufacturer": null,
+      "number": 342,
+      "playlistId": "PLTSWkYxuSlkW_G_3Ml-R6qD7eZ8u1fxSy",
+      "prefix": "bb",
+      "shortTitle": "Package from SELIM!!!",
+      "url": "https://www.youtube.com/watch?v=VSW0e6GD52w"
     },
     {
       "fullTitle": "(343) Iseo Padlock Picked Open and Improved",
@@ -3391,6 +3321,16 @@
       "url": "https://www.youtube.com/watch?v=hbdMrpVlNUU"
     },
     {
+      "fullTitle": "(356) Sealed American Padlocks - How to Rebuild Them",
+      "id": "UeBugbi8fcA",
+      "manufacturer": "American",
+      "number": 356,
+      "playlistId": "PLTSWkYxuSlkW_G_3Ml-R6qD7eZ8u1fxSy",
+      "prefix": "bb",
+      "shortTitle": "Sealed American Padlocks - How to Rebuild Them",
+      "url": "https://www.youtube.com/watch?v=UeBugbi8fcA"
+    },
+    {
       "fullTitle": "(357) Cross Training: BikePicking a Master 150",
       "id": "fK_eckzCAGs",
       "manufacturer": null,
@@ -3479,16 +3419,6 @@
       "prefix": "bb",
       "shortTitle": "Master Lock 6125 Pro Series Padlock Picked",
       "url": "https://www.youtube.com/watch?v=lefEhazQA9o"
-    },
-    {
-      "fullTitle": "(366) DOM iX-5 Picked Open (Thanks Adrian Weber!)",
-      "id": "SpHG7hv10Qc",
-      "manufacturer": "DOM",
-      "number": 366,
-      "playlistId": "PLTSWkYxuSlkW_G_3Ml-R6qD7eZ8u1fxSy",
-      "prefix": "bb",
-      "shortTitle": "DOM iX-5 Picked Open (Thanks Adrian Weber!)",
-      "url": "https://www.youtube.com/watch?v=SpHG7hv10Qc"
     },
     {
       "fullTitle": "(367) Mul-T-Lock from Waddac2 Picked & Gutted",
@@ -3901,16 +3831,6 @@
       "url": "https://www.youtube.com/watch?v=KDcQV4uEPZs"
     },
     {
-      "fullTitle": "(408) Challenge: Mul-T-Lock Garrison Lock (Thanks JIM!!!)",
-      "id": "O1kUSTl1nIs",
-      "manufacturer": "Mul-T-Lock",
-      "number": 408,
-      "playlistId": "PLTSWkYxuSlkW_G_3Ml-R6qD7eZ8u1fxSy",
-      "prefix": "bb",
-      "shortTitle": "Challenge: Mul-T-Lock Garrison Lock (Thanks JIM!!!)",
-      "url": "https://www.youtube.com/watch?v=O1kUSTl1nIs"
-    },
-    {
       "fullTitle": "(409) Challenge: Kryptonite Padlock Picked & Bumped Open",
       "id": "BpffDK2pgdI",
       "manufacturer": "Kryptonite",
@@ -4191,6 +4111,16 @@
       "url": "https://www.youtube.com/watch?v=MARy_D4NbFA"
     },
     {
+      "fullTitle": "(437) Makerbot 3D Prototyping Adrian's Pinning Tray",
+      "id": "laTLtgqooO4",
+      "manufacturer": null,
+      "number": 437,
+      "playlistId": "PLTSWkYxuSlkW_G_3Ml-R6qD7eZ8u1fxSy",
+      "prefix": "bb",
+      "shortTitle": "Makerbot 3D Prototyping Adrian's Pinning Tray",
+      "url": "https://www.youtube.com/watch?v=laTLtgqooO4"
+    },
+    {
       "fullTitle": "(438) FREE Peterson Lock Picks for Newbies!!! (ALL GONE!!!)",
       "id": "F8nyLwKXBug",
       "manufacturer": null,
@@ -4301,6 +4231,16 @@
       "url": "https://www.youtube.com/watch?v=J0jQKI7lUcA"
     },
     {
+      "fullTitle": "(449) Master Lock 530 Replaceable Core (JUNK!)",
+      "id": "VLsIz49o9N4",
+      "manufacturer": "Master Lock",
+      "number": 449,
+      "playlistId": "PLTSWkYxuSlkW_G_3Ml-R6qD7eZ8u1fxSy",
+      "prefix": "bb",
+      "shortTitle": "Master Lock 530 Replaceable Core (JUNK!)",
+      "url": "https://www.youtube.com/watch?v=VLsIz49o9N4"
+    },
+    {
       "fullTitle": "(450) Polish Locks from MantukaSNK!!",
       "id": "1pU5ffvigiU",
       "manufacturer": null,
@@ -4329,16 +4269,6 @@
       "prefix": "bb",
       "shortTitle": "Finding the Right Tension for Lock Picking Beginners",
       "url": "https://www.youtube.com/watch?v=n_RE1wZfdd0"
-    },
-    {
-      "fullTitle": "(453) Improve the Finish on 3D Prints (Makerbot)",
-      "id": "AoMH2z2O4Ys",
-      "manufacturer": null,
-      "number": 453,
-      "playlistId": "PLTSWkYxuSlkW_G_3Ml-R6qD7eZ8u1fxSy",
-      "prefix": "bb",
-      "shortTitle": "Improve the Finish on 3D Prints (Makerbot)",
-      "url": "https://www.youtube.com/watch?v=AoMH2z2O4Ys"
     },
     {
       "fullTitle": "(454) Magnum 2100 Mont Blanc Series Picked",
@@ -4399,6 +4329,16 @@
       "prefix": "bb",
       "shortTitle": "Master Lock Lock Out Tag Out (LOTO) Training Locks",
       "url": "https://www.youtube.com/watch?v=g0qyjS2pNxM"
+    },
+    {
+      "fullTitle": "(460) Chicago Double-Wafer Padlock Picked Open",
+      "id": "_oOXMBcYnWY",
+      "manufacturer": null,
+      "number": 460,
+      "playlistId": "PLTSWkYxuSlkW_G_3Ml-R6qD7eZ8u1fxSy",
+      "prefix": "bb",
+      "shortTitle": "Chicago Double-Wafer Padlock Picked Open",
+      "url": "https://www.youtube.com/watch?v=_oOXMBcYnWY"
     },
     {
       "fullTitle": "(461) Sargent Signature LFIC by SELIM Picked & Gutted",
@@ -5361,6 +5301,16 @@
       "url": "https://www.youtube.com/watch?v=MINKsm3JV6M"
     },
     {
+      "fullTitle": "(557) New Picks and a Kryptonite Padlock Picked Opened",
+      "id": "4Yhy4oD3rwk",
+      "manufacturer": "Kryptonite",
+      "number": 557,
+      "playlistId": "PLTSWkYxuSlkW_G_3Ml-R6qD7eZ8u1fxSy",
+      "prefix": "bb",
+      "shortTitle": "New Picks and a Kryptonite Padlock Picked Opened",
+      "url": "https://www.youtube.com/watch?v=4Yhy4oD3rwk"
+    },
+    {
       "fullTitle": "(558) Chrysler Ignition Switch Picked & Zipped",
       "id": "uNA5PW3x0d0",
       "manufacturer": null,
@@ -5811,6 +5761,16 @@
       "url": "https://www.youtube.com/watch?v=FHkQdwtakOU"
     },
     {
+      "fullTitle": "(603) Knog Padlock Picked Open (Thanks Vitaly!)",
+      "id": "_gYRLyrqvvo",
+      "manufacturer": null,
+      "number": 603,
+      "playlistId": "PLTSWkYxuSlkW_G_3Ml-R6qD7eZ8u1fxSy",
+      "prefix": "bb",
+      "shortTitle": "Knog Padlock Picked Open (Thanks Vitaly!)",
+      "url": "https://www.youtube.com/watch?v=_gYRLyrqvvo"
+    },
+    {
       "fullTitle": "(604) Stanley Padlock Picked Open (Thanks Vitaly!)",
       "id": "3ltISiiLlm8",
       "manufacturer": "Stanley",
@@ -6031,6 +5991,16 @@
       "url": "https://www.youtube.com/watch?v=JmRFuLx5Prg"
     },
     {
+      "fullTitle": "(626) Challenge: Master Lock ProSeries 7030 by Kenny",
+      "id": "IrTh_1kFhgg",
+      "manufacturer": "Master Lock",
+      "number": 626,
+      "playlistId": "PLTSWkYxuSlkW_G_3Ml-R6qD7eZ8u1fxSy",
+      "prefix": "bb",
+      "shortTitle": "Challenge: Master Lock ProSeries 7030 by Kenny",
+      "url": "https://www.youtube.com/watch?v=IrTh_1kFhgg"
+    },
+    {
       "fullTitle": "(627) John Coulter's WEIRDEST LOCK ON EARTH!!",
       "id": "1ey2SFHbZV8",
       "manufacturer": null,
@@ -6131,16 +6101,6 @@
       "url": "https://www.youtube.com/watch?v=iCBsaK76jnc"
     },
     {
-      "fullTitle": "(637) Bumping the \"Forever Lock\" (FAIL)",
-      "id": "nO1zkWKK5dA",
-      "manufacturer": null,
-      "number": 637,
-      "playlistId": "PLTSWkYxuSlkW_G_3Ml-R6qD7eZ8u1fxSy",
-      "prefix": "bb",
-      "shortTitle": "Bumping the \"Forever Lock\" (FAIL)",
-      "url": "https://www.youtube.com/watch?v=nO1zkWKK5dA"
-    },
-    {
       "fullTitle": "(638) Locks from Johan in SWEDEN!",
       "id": "df4v3fWDvEc",
       "manufacturer": null,
@@ -6171,6 +6131,16 @@
       "url": "https://www.youtube.com/watch?v=78XWFgzKcqQ"
     },
     {
+      "fullTitle": "(641) Yale Push Lock Picked Open and Explained",
+      "id": "nfvVBn47rig",
+      "manufacturer": "Yale",
+      "number": 641,
+      "playlistId": "PLTSWkYxuSlkW_G_3Ml-R6qD7eZ8u1fxSy",
+      "prefix": "bb",
+      "shortTitle": "Yale Push Lock Picked Open and Explained",
+      "url": "https://www.youtube.com/watch?v=nfvVBn47rig"
+    },
+    {
       "fullTitle": "(642) Master Lock Combo Box - EZPZ to Open! (JUNK!)",
       "id": "fdeMaWkJF2k",
       "manufacturer": "Master Lock",
@@ -6199,6 +6169,16 @@
       "prefix": "bb",
       "shortTitle": "Wynn \"Smiley\" Lock - Thanks VitalyM!!",
       "url": "https://www.youtube.com/watch?v=GpNsKFYhUzU"
+    },
+    {
+      "fullTitle": "(645) Antique Ordnance Corps Padlock",
+      "id": "Y_Q0kvecKz4",
+      "manufacturer": null,
+      "number": 645,
+      "playlistId": "PLTSWkYxuSlkW_G_3Ml-R6qD7eZ8u1fxSy",
+      "prefix": "bb",
+      "shortTitle": "Antique Ordnance Corps Padlock",
+      "url": "https://www.youtube.com/watch?v=Y_Q0kvecKz4"
     },
     {
       "fullTitle": "(646) \"Mercy\" Lock from Vitaly M",
@@ -6671,16 +6651,6 @@
       "url": "https://www.youtube.com/watch?v=-BmzdIhy5CE"
     },
     {
-      "fullTitle": "(693) Buying Security - Get your money's worth!",
-      "id": "u_7GLxmyaXM",
-      "manufacturer": null,
-      "number": 693,
-      "playlistId": "PLTSWkYxuSlkW_G_3Ml-R6qD7eZ8u1fxSy",
-      "prefix": "bb",
-      "shortTitle": "Buying Security - Get your money's worth!",
-      "url": "https://www.youtube.com/watch?v=u_7GLxmyaXM"
-    },
-    {
       "fullTitle": "(694) Papa Gleb's Challenge Lock #2",
       "id": "a7j7nMCgf9I",
       "manufacturer": null,
@@ -6731,6 +6701,16 @@
       "url": "https://www.youtube.com/watch?v=J0wf9NE_xQc"
     },
     {
+      "fullTitle": "(699) Challenge: Abus 45/40 Picked Open",
+      "id": "nlx-kKycPO4",
+      "manufacturer": "ABUS",
+      "number": 699,
+      "playlistId": "PLTSWkYxuSlkW_G_3Ml-R6qD7eZ8u1fxSy",
+      "prefix": "bb",
+      "shortTitle": "Challenge: Abus 45/40 Picked Open",
+      "url": "https://www.youtube.com/watch?v=nlx-kKycPO4"
+    },
+    {
       "fullTitle": "(700) How to: Pick Serrated Pins",
       "id": "gFlt9yjaoQU",
       "manufacturer": null,
@@ -6759,6 +6739,16 @@
       "prefix": "bb",
       "shortTitle": "Colin's Challenge Lock Picked & Gutted",
       "url": "https://www.youtube.com/watch?v=j_LDMW3MFpc"
+    },
+    {
+      "fullTitle": "(703) Fun in the Lock Lab",
+      "id": "7WOFqpfXwrk",
+      "manufacturer": null,
+      "number": 703,
+      "playlistId": "PLTSWkYxuSlkW_G_3Ml-R6qD7eZ8u1fxSy",
+      "prefix": "bb",
+      "shortTitle": "Fun in the Lock Lab",
+      "url": "https://www.youtube.com/watch?v=7WOFqpfXwrk"
     },
     {
       "fullTitle": "(704) Jack's Pair.... of Burg Wachter 116/40s",
@@ -6901,6 +6891,16 @@
       "url": "https://www.youtube.com/watch?v=a62PHxcfalM"
     },
     {
+      "fullTitle": "(718) Hipu's \"Pickle Surprise\" (Explosion and FAIL!)",
+      "id": "yLcLWdqTAPU",
+      "manufacturer": null,
+      "number": 718,
+      "playlistId": "PLTSWkYxuSlkW_G_3Ml-R6qD7eZ8u1fxSy",
+      "prefix": "bb",
+      "shortTitle": "Hipu's \"Pickle Surprise\" (Explosion and FAIL!)",
+      "url": "https://www.youtube.com/watch?v=yLcLWdqTAPU"
+    },
+    {
       "fullTitle": "(719) Matt's PRIORITY Yale Padlock",
       "id": "gD9sHankiDw",
       "manufacturer": "Yale",
@@ -6921,6 +6921,16 @@
       "url": "https://www.youtube.com/watch?v=15g4M0ZQC3w"
     },
     {
+      "fullTitle": "(721) A Fortress, or NOT a Fortress?",
+      "id": "eeAlSIRrWbk",
+      "manufacturer": null,
+      "number": 721,
+      "playlistId": "PLTSWkYxuSlkW_G_3Ml-R6qD7eZ8u1fxSy",
+      "prefix": "bb",
+      "shortTitle": "A Fortress, or NOT a Fortress?",
+      "url": "https://www.youtube.com/watch?v=eeAlSIRrWbk"
+    },
+    {
       "fullTitle": "(722) CES from Andreas",
       "id": "Ll5mAUCA7Ac",
       "manufacturer": null,
@@ -6939,6 +6949,16 @@
       "prefix": "bb",
       "shortTitle": "Rallock67's Challenge Suite",
       "url": "https://www.youtube.com/watch?v=QRWhLMN5LAQ"
+    },
+    {
+      "fullTitle": "(724) Review: SouthOrd C-2010 Euro Lock Pick Set",
+      "id": "xo9cDp8a8z0",
+      "manufacturer": null,
+      "number": 724,
+      "playlistId": "PLTSWkYxuSlkW_G_3Ml-R6qD7eZ8u1fxSy",
+      "prefix": "bb",
+      "shortTitle": "Review: SouthOrd C-2010 Euro Lock Pick Set",
+      "url": "https://www.youtube.com/watch?v=xo9cDp8a8z0"
     },
     {
       "fullTitle": "(725) Review:  Peterson EAGLES NEST Lock Pick Set",
@@ -7049,6 +7069,16 @@
       "prefix": "bb",
       "shortTitle": "ML Pro-Series 6121 \"Self Picking Padlock\"",
       "url": "https://www.youtube.com/watch?v=lv9C7qoKVN8"
+    },
+    {
+      "fullTitle": "(736) Brent's Australian \"Octo-Dimple\"",
+      "id": "aMVaXcW9HAY",
+      "manufacturer": null,
+      "number": 736,
+      "playlistId": "PLTSWkYxuSlkW_G_3Ml-R6qD7eZ8u1fxSy",
+      "prefix": "bb",
+      "shortTitle": "Brent's Australian \"Octo-Dimple\"",
+      "url": "https://www.youtube.com/watch?v=aMVaXcW9HAY"
     },
     {
       "fullTitle": "(737) Brent's Lockwood Challenge",
@@ -7341,16 +7371,6 @@
       "url": "https://www.youtube.com/watch?v=lTPpb8veooY"
     },
     {
-      "fullTitle": "(766) Review: GOSO 24-Piece Lock Pick Kit (JUNK!)",
-      "id": "bzppp1ncqR0",
-      "manufacturer": null,
-      "number": 766,
-      "playlistId": "PLTSWkYxuSlkW_G_3Ml-R6qD7eZ8u1fxSy",
-      "prefix": "bb",
-      "shortTitle": "Review: GOSO 24-Piece Lock Pick Kit (JUNK!)",
-      "url": "https://www.youtube.com/watch?v=bzppp1ncqR0"
-    },
-    {
       "fullTitle": "(767) Andy's UK Lock Celebration!!!",
       "id": "dAKZOg2A8ZA",
       "manufacturer": null,
@@ -7431,16 +7451,6 @@
       "url": "https://www.youtube.com/watch?v=iLidaYcgim8"
     },
     {
-      "fullTitle": "(775) Review: Credit Card Access Lock Pick Kit",
-      "id": "s_skYR-kDWY",
-      "manufacturer": null,
-      "number": 775,
-      "playlistId": "PLTSWkYxuSlkW_G_3Ml-R6qD7eZ8u1fxSy",
-      "prefix": "bb",
-      "shortTitle": "Review: Credit Card Access Lock Pick Kit",
-      "url": "https://www.youtube.com/watch?v=s_skYR-kDWY"
-    },
-    {
       "fullTitle": "(776) Review: Sparrows TUXEDO Lock Pick Set",
       "id": "3CSImo0PBRA",
       "manufacturer": null,
@@ -7449,16 +7459,6 @@
       "prefix": "bb",
       "shortTitle": "Review: Sparrows TUXEDO Lock Pick Set",
       "url": "https://www.youtube.com/watch?v=3CSImo0PBRA"
-    },
-    {
-      "fullTitle": "(777) Review: Mad Bob's GHOST PRO Lock Pick Set",
-      "id": "XYJrDH_76bU",
-      "manufacturer": null,
-      "number": 777,
-      "playlistId": "PLTSWkYxuSlkW_G_3Ml-R6qD7eZ8u1fxSy",
-      "prefix": "bb",
-      "shortTitle": "Review: Mad Bob's GHOST PRO Lock Pick Set",
-      "url": "https://www.youtube.com/watch?v=XYJrDH_76bU"
     },
     {
       "fullTitle": "(778) Remco's KFV Euro Cylinder",
@@ -7509,16 +7509,6 @@
       "prefix": "bb",
       "shortTitle": "Master Lock ProSeries 6327 (LockLab's V2!)",
       "url": "https://www.youtube.com/watch?v=ikSQ4f0WKiQ"
-    },
-    {
-      "fullTitle": "(783) Review: Sparrows EOD-FULL Lock Pick Set",
-      "id": "p_3xTXvpn4A",
-      "manufacturer": null,
-      "number": 783,
-      "playlistId": "PLTSWkYxuSlkW_G_3Ml-R6qD7eZ8u1fxSy",
-      "prefix": "bb",
-      "shortTitle": "Review: Sparrows EOD-FULL Lock Pick Set",
-      "url": "https://www.youtube.com/watch?v=p_3xTXvpn4A"
     },
     {
       "fullTitle": "(784) Review: H&H 30-Piece Lock Pick Set",
@@ -7609,16 +7599,6 @@
       "prefix": "bb",
       "shortTitle": "Review: Pickology X2500 Lock Pick Kit",
       "url": "https://www.youtube.com/watch?v=BuaBvDvhsHw"
-    },
-    {
-      "fullTitle": "(793) Master Lock 176 - Lessons NOT Learned! (JUNK!)",
-      "id": "oFdzijpUdNM",
-      "manufacturer": "Master Lock",
-      "number": 793,
-      "playlistId": "PLTSWkYxuSlkW_G_3Ml-R6qD7eZ8u1fxSy",
-      "prefix": "bb",
-      "shortTitle": "Master Lock 176 - Lessons NOT Learned! (JUNK!)",
-      "url": "https://www.youtube.com/watch?v=oFdzijpUdNM"
     },
     {
       "fullTitle": "(794) Review: Readyman Survival Tools & Lock Picks",
@@ -7751,6 +7731,16 @@
       "url": "https://www.youtube.com/watch?v=pN_BkhX9v9I"
     },
     {
+      "fullTitle": "(807) Lockwood 356S63 from Con, Peter, and William",
+      "id": "ArNwGcSYH3M",
+      "manufacturer": "Lockwood",
+      "number": 807,
+      "playlistId": "PLTSWkYxuSlkW_G_3Ml-R6qD7eZ8u1fxSy",
+      "prefix": "bb",
+      "shortTitle": "Lockwood 356S63 from Con, Peter, and William",
+      "url": "https://www.youtube.com/watch?v=ArNwGcSYH3M"
+    },
+    {
       "fullTitle": "(808) Review: Serepick Bogota Pi Miniature Lock Pick Set",
       "id": "KlGhzSaqB_A",
       "manufacturer": null,
@@ -7769,6 +7759,16 @@
       "prefix": "bb",
       "shortTitle": "Review: Rev's Custom Made Lock Picks",
       "url": "https://www.youtube.com/watch?v=fcwvGhf3JVM"
+    },
+    {
+      "fullTitle": "(835) Challenge: Brinks from Lee White Locksmithing",
+      "id": "82LKpMrBteM",
+      "manufacturer": "Brinks",
+      "number": 835,
+      "playlistId": "PLTSWkYxuSlkW_G_3Ml-R6qD7eZ8u1fxSy",
+      "prefix": "bb",
+      "shortTitle": "Challenge: Brinks from Lee White Locksmithing",
+      "url": "https://www.youtube.com/watch?v=82LKpMrBteM"
     },
     {
       "fullTitle": "(842) Review: Souber Mul-T-Lock Dimple Lock PIck Set",
@@ -7799,6 +7799,16 @@
       "prefix": "bb",
       "shortTitle": "Review: Southern Specialties LPH-12E Pick Kit",
       "url": "https://www.youtube.com/watch?v=xbWcBmslotA"
+    },
+    {
+      "fullTitle": "(861) Review: Multipick Elite-11 Lock Pick Set",
+      "id": "zrM3zolHo04",
+      "manufacturer": null,
+      "number": 861,
+      "playlistId": "PLTSWkYxuSlkW_G_3Ml-R6qD7eZ8u1fxSy",
+      "prefix": "bb",
+      "shortTitle": "Review: Multipick Elite-11 Lock Pick Set",
+      "url": "https://www.youtube.com/watch?v=zrM3zolHo04"
     },
     {
       "fullTitle": "(862) Team Restall's Union Challenge",
@@ -8129,6 +8139,16 @@
       "prefix": "bb",
       "shortTitle": "World's Toughest Motorcycle Lock",
       "url": "https://www.youtube.com/watch?v=4JgEfZzaRtw"
+    },
+    {
+      "fullTitle": "(911) Magnum Euro Cylinder Picked & Gutted",
+      "id": "ObFdv42-gSk",
+      "manufacturer": null,
+      "number": 911,
+      "playlistId": "PLTSWkYxuSlkW_G_3Ml-R6qD7eZ8u1fxSy",
+      "prefix": "bb",
+      "shortTitle": "Magnum Euro Cylinder Picked & Gutted",
+      "url": "https://www.youtube.com/watch?v=ObFdv42-gSk"
     },
     {
       "fullTitle": "(912) Review: Sparrows CHAOS Survival Lock Pick Card",
@@ -8611,6 +8631,16 @@
       "url": "https://www.youtube.com/watch?v=a09HgRh0gps"
     },
     {
+      "fullTitle": "(961) Review: Sparrows RELOAD KIT for Re-keying Locks",
+      "id": "_NpcTyJADqY",
+      "manufacturer": null,
+      "number": 961,
+      "playlistId": "PLTSWkYxuSlkW_G_3Ml-R6qD7eZ8u1fxSy",
+      "prefix": "bb",
+      "shortTitle": "Review: Sparrows RELOAD KIT for Re-keying Locks",
+      "url": "https://www.youtube.com/watch?v=_NpcTyJADqY"
+    },
+    {
       "fullTitle": "(962) Picking Locks for Animal Crackers",
       "id": "LB5_zoa0Wkg",
       "manufacturer": null,
@@ -8891,6 +8921,16 @@
       "url": "https://www.youtube.com/watch?v=GLMyIvgG3zs"
     },
     {
+      "fullTitle": "(991) Review: Sparrows Under-the-Door (UDT) Tool",
+      "id": "QSQo4bcfLbY",
+      "manufacturer": null,
+      "number": 991,
+      "playlistId": "PLTSWkYxuSlkW_G_3Ml-R6qD7eZ8u1fxSy",
+      "prefix": "bb",
+      "shortTitle": "Review: Sparrows Under-the-Door (UDT) Tool",
+      "url": "https://www.youtube.com/watch?v=QSQo4bcfLbY"
+    },
+    {
       "fullTitle": "(992) Review: Multipick Mark II Training Lock",
       "id": "X-Fp13isptw",
       "manufacturer": null,
@@ -8981,6 +9021,16 @@
       "url": "https://www.youtube.com/watch?v=zTyONUOS2BI"
     },
     {
+      "fullTitle": "(1001) MCM Dimple Lock Picked & Gutted",
+      "id": "RwwI35k4UMU",
+      "manufacturer": null,
+      "number": 1001,
+      "playlistId": "PLTSWkYxuSlkW_G_3Ml-R6qD7eZ8u1fxSy",
+      "prefix": "bb",
+      "shortTitle": "MCM Dimple Lock Picked & Gutted",
+      "url": "https://www.youtube.com/watch?v=RwwI35k4UMU"
+    },
+    {
       "fullTitle": "(1002) Attacking Trojan Horses",
       "id": "OQANFMq545w",
       "manufacturer": null,
@@ -9041,6 +9091,16 @@
       "url": "https://www.youtube.com/watch?v=mqHzL-AO4lw"
     },
     {
+      "fullTitle": "(1008) Bulgarian Padlock Picked Open",
+      "id": "mAKYN50uJBQ",
+      "manufacturer": null,
+      "number": 1008,
+      "playlistId": "PLTSWkYxuSlkW_G_3Ml-R6qD7eZ8u1fxSy",
+      "prefix": "bb",
+      "shortTitle": "Bulgarian Padlock Picked Open",
+      "url": "https://www.youtube.com/watch?v=mAKYN50uJBQ"
+    },
+    {
       "fullTitle": "(1009) Challenge: Assa SCD Treasure Tube Picked & Gutted",
       "id": "OSASb83aVLA",
       "manufacturer": "ASSA",
@@ -9089,6 +9149,16 @@
       "prefix": "bb",
       "shortTitle": "Challenge: Schlage Everest Picked & Gutted",
       "url": "https://www.youtube.com/watch?v=QXj5g_RBof4"
+    },
+    {
+      "fullTitle": "(1014) Challenge: Mauer Euro Cylinder",
+      "id": "23xoJeIhFhQ",
+      "manufacturer": "Mauer",
+      "number": 1014,
+      "playlistId": "PLTSWkYxuSlkW_G_3Ml-R6qD7eZ8u1fxSy",
+      "prefix": "bb",
+      "shortTitle": "Challenge: Mauer Euro Cylinder",
+      "url": "https://www.youtube.com/watch?v=23xoJeIhFhQ"
     },
     {
       "fullTitle": "(1015) Geo Euro Cylinder Picked & Gutted",
@@ -9221,16 +9291,6 @@
       "url": "https://www.youtube.com/watch?v=3HbZbO3s4ls"
     },
     {
-      "fullTitle": "(1029) Master Lock Tow Bar and Hitch Lock 1479DAT (JUNK!)",
-      "id": "dzNwx_LByLE",
-      "manufacturer": "Master Lock",
-      "number": 1029,
-      "playlistId": "PLTSWkYxuSlkW_G_3Ml-R6qD7eZ8u1fxSy",
-      "prefix": "bb",
-      "shortTitle": "Master Lock Tow Bar and Hitch Lock 1479DAT (JUNK!)",
-      "url": "https://www.youtube.com/watch?v=dzNwx_LByLE"
-    },
-    {
       "fullTitle": "(1030) Challenge: Old Hag",
       "id": "H3zzX0OjycA",
       "manufacturer": null,
@@ -9309,6 +9369,16 @@
       "prefix": "bb",
       "shortTitle": "Master Lock 377 Trailer Hitch Lock (JUNK!)",
       "url": "https://www.youtube.com/watch?v=4UFrFvRUsSg"
+    },
+    {
+      "fullTitle": "(1038) Yardeni (Mul-t-lock clone) Dimple Lock Picked & Gutted",
+      "id": "DF2QVVKsSqE",
+      "manufacturer": "Mul-T-Lock",
+      "number": 1038,
+      "playlistId": "PLTSWkYxuSlkW_G_3Ml-R6qD7eZ8u1fxSy",
+      "prefix": "bb",
+      "shortTitle": "Yardeni (Mul-t-lock clone) Dimple Lock Picked & Gutted",
+      "url": "https://www.youtube.com/watch?v=DF2QVVKsSqE"
     },
     {
       "fullTitle": "(1039) Review: OFC Lock Picking Training Locks",
@@ -9419,6 +9489,16 @@
       "prefix": "bb",
       "shortTitle": "Review:  LSL Electric Dimple Lock Pick Gun",
       "url": "https://www.youtube.com/watch?v=DjG3FAaiJdc"
+    },
+    {
+      "fullTitle": "(1051) Nick's Alpha Padlock Picked Open",
+      "id": "Js4dWj8t8hA",
+      "manufacturer": null,
+      "number": 1051,
+      "playlistId": "PLTSWkYxuSlkW_G_3Ml-R6qD7eZ8u1fxSy",
+      "prefix": "bb",
+      "shortTitle": "Nick's Alpha Padlock Picked Open",
+      "url": "https://www.youtube.com/watch?v=Js4dWj8t8hA"
     },
     {
       "fullTitle": "(1052) M&C Condor Picked Open and Gutted",
@@ -9559,16 +9639,6 @@
       "prefix": "bb",
       "shortTitle": "Review: BumpSchool 15-Key Best Lock Bump Keys",
       "url": "https://www.youtube.com/watch?v=svfqt62Rpb8"
-    },
-    {
-      "fullTitle": "(1066) Construction Lock Silliness",
-      "id": "cKDBoE-kYFk",
-      "manufacturer": null,
-      "number": 1066,
-      "playlistId": "PLTSWkYxuSlkW_G_3Ml-R6qD7eZ8u1fxSy",
-      "prefix": "bb",
-      "shortTitle": "Construction Lock Silliness",
-      "url": "https://www.youtube.com/watch?v=cKDBoE-kYFk"
     },
     {
       "fullTitle": "(1067) Challenge: Meliora",
@@ -9921,6 +9991,16 @@
       "url": "https://www.youtube.com/watch?v=-fjYMyTsWRk"
     },
     {
+      "fullTitle": "(1102) Review: Mad Bob's ZOMBIE Lock Pick Kit",
+      "id": "B2cFSrSvYSQ",
+      "manufacturer": null,
+      "number": 1102,
+      "playlistId": "PLTSWkYxuSlkW_G_3Ml-R6qD7eZ8u1fxSy",
+      "prefix": "bb",
+      "shortTitle": "Review: Mad Bob's ZOMBIE Lock Pick Kit",
+      "url": "https://www.youtube.com/watch?v=B2cFSrSvYSQ"
+    },
+    {
       "fullTitle": "(1103) Whipped: MonkeyLockPicks Challenge Lock",
       "id": "lTIkcl-1jJM",
       "manufacturer": null,
@@ -9939,6 +10019,16 @@
       "prefix": "bb",
       "shortTitle": "Ludell Padlock (JUNK!)",
       "url": "https://www.youtube.com/watch?v=m7lFWqc1Ym4"
+    },
+    {
+      "fullTitle": "(1105) Challenge: Duivel (Devil) Yale",
+      "id": "G3pvtMv9AiI",
+      "manufacturer": "Yale",
+      "number": 1105,
+      "playlistId": "PLTSWkYxuSlkW_G_3Ml-R6qD7eZ8u1fxSy",
+      "prefix": "bb",
+      "shortTitle": "Challenge: Duivel (Devil) Yale",
+      "url": "https://www.youtube.com/watch?v=G3pvtMv9AiI"
     },
     {
       "fullTitle": "(1106) Review: Sparrows CHECK PINS & BangGood Lock Picking Gear",
@@ -10081,16 +10171,6 @@
       "url": "https://www.youtube.com/watch?v=iOC-hpGaIMM"
     },
     {
-      "fullTitle": "(1121) Chinese BiLock Knockoff Picked Open",
-      "id": "0n_r_rc3wW8",
-      "manufacturer": null,
-      "number": 1121,
-      "playlistId": "PLTSWkYxuSlkW_G_3Ml-R6qD7eZ8u1fxSy",
-      "prefix": "bb",
-      "shortTitle": "Chinese BiLock Knockoff Picked Open",
-      "url": "https://www.youtube.com/watch?v=0n_r_rc3wW8"
-    },
-    {
       "fullTitle": "(1122) Review: Multipick's IMPROVED Centurion Lock Picking Stand",
       "id": "RVFvpDJrD7M",
       "manufacturer": null,
@@ -10099,6 +10179,16 @@
       "prefix": "bb",
       "shortTitle": "Review: Multipick's IMPROVED Centurion Lock Picking Stand",
       "url": "https://www.youtube.com/watch?v=RVFvpDJrD7M"
+    },
+    {
+      "fullTitle": "(1123) Challenge: Shane's Frugal Lock",
+      "id": "76bt5l3KCnM",
+      "manufacturer": null,
+      "number": 1123,
+      "playlistId": "PLTSWkYxuSlkW_G_3Ml-R6qD7eZ8u1fxSy",
+      "prefix": "bb",
+      "shortTitle": "Challenge: Shane's Frugal Lock",
+      "url": "https://www.youtube.com/watch?v=76bt5l3KCnM"
     },
     {
       "fullTitle": "(1124) Scruffy's Habo 7-Pin Oval Lock",
@@ -10201,6 +10291,16 @@
       "url": "https://www.youtube.com/watch?v=EX6QlKXib3I"
     },
     {
+      "fullTitle": "(1134) Whipped: Ray's Nightmare Challenge Lock",
+      "id": "KBJAqvmMnAw",
+      "manufacturer": null,
+      "number": 1134,
+      "playlistId": "PLTSWkYxuSlkW_G_3Ml-R6qD7eZ8u1fxSy",
+      "prefix": "bb",
+      "shortTitle": "Whipped: Ray's Nightmare Challenge Lock",
+      "url": "https://www.youtube.com/watch?v=KBJAqvmMnAw"
+    },
+    {
       "fullTitle": "(1135) Review: HPC Tyro Lock Pick Kit",
       "id": "NbW0y__6160",
       "manufacturer": null,
@@ -10229,6 +10329,16 @@
       "prefix": "bb",
       "shortTitle": "Russian Disc Detainer, uhhh....defeated?",
       "url": "https://www.youtube.com/watch?v=-cEVatzkAO4"
+    },
+    {
+      "fullTitle": "(1138) Folger Adam Prison Lock Picked & Gutted",
+      "id": "GeTv61MUD5E",
+      "manufacturer": null,
+      "number": 1138,
+      "playlistId": "PLTSWkYxuSlkW_G_3Ml-R6qD7eZ8u1fxSy",
+      "prefix": "bb",
+      "shortTitle": "Folger Adam Prison Lock Picked & Gutted",
+      "url": "https://www.youtube.com/watch?v=GeTv61MUD5E"
     },
     {
       "fullTitle": "(1139) Review: PickLock24's XL and M Lock Pick Kits",
@@ -10289,16 +10399,6 @@
       "prefix": "bb",
       "shortTitle": "Challenge: Trap Lock (almost...)",
       "url": "https://www.youtube.com/watch?v=LfSM4RsLXW8"
-    },
-    {
-      "fullTitle": "(1145) Galaxy Lock from Accurate Locksmithing",
-      "id": "jJedCTXsaHg",
-      "manufacturer": null,
-      "number": 1145,
-      "playlistId": "PLTSWkYxuSlkW_G_3Ml-R6qD7eZ8u1fxSy",
-      "prefix": "bb",
-      "shortTitle": "Galaxy Lock from Accurate Locksmithing",
-      "url": "https://www.youtube.com/watch?v=jJedCTXsaHg"
     },
     {
       "fullTitle": "(1146) Review: Multipick Broken Key Extractor Kit",
@@ -10389,6 +10489,16 @@
       "prefix": "bb",
       "shortTitle": "Challenge: Euro-Pinned Abus 83/45",
       "url": "https://www.youtube.com/watch?v=Vtk-5wlSXkE"
+    },
+    {
+      "fullTitle": "(1155) Review: Sparrows PROGRESSIVE Training Locks and Cutaways",
+      "id": "j089_yM1Beo",
+      "manufacturer": null,
+      "number": 1155,
+      "playlistId": "PLTSWkYxuSlkW_G_3Ml-R6qD7eZ8u1fxSy",
+      "prefix": "bb",
+      "shortTitle": "Review: Sparrows PROGRESSIVE Training Locks and Cutaways",
+      "url": "https://www.youtube.com/watch?v=j089_yM1Beo"
     },
     {
       "fullTitle": "(1156) Gutting DISASTER (Sorry!)",
@@ -10911,6 +11021,16 @@
       "url": "https://www.youtube.com/watch?v=-xuHGXwTdP8"
     },
     {
+      "fullTitle": "(1214) Bottle Lock Defeated!  Free Liquor for Life!",
+      "id": "U42q0irBWFk",
+      "manufacturer": null,
+      "number": 1214,
+      "playlistId": "PLTSWkYxuSlkW_G_3Ml-R6qD7eZ8u1fxSy",
+      "prefix": "bb",
+      "shortTitle": "Bottle Lock Defeated!  Free Liquor for Life!",
+      "url": "https://www.youtube.com/watch?v=U42q0irBWFk"
+    },
+    {
       "fullTitle": "(1215) Evva Graute Euro Cylinder Picked Open",
       "id": "7MmWsMIejV4",
       "manufacturer": "EVVA",
@@ -10949,6 +11069,16 @@
       "prefix": "bb",
       "shortTitle": "Challenge: Jillian's Ultimate Effort",
       "url": "https://www.youtube.com/watch?v=IJTWFX98-T8"
+    },
+    {
+      "fullTitle": "(1219) Challenge: Erroneous Designs Unpickable Brinks Lock",
+      "id": "sictxXx5P-k",
+      "manufacturer": "Brinks",
+      "number": 1219,
+      "playlistId": "PLTSWkYxuSlkW_G_3Ml-R6qD7eZ8u1fxSy",
+      "prefix": "bb",
+      "shortTitle": "Challenge: Erroneous Designs Unpickable Brinks Lock",
+      "url": "https://www.youtube.com/watch?v=sictxXx5P-k"
     },
     {
       "fullTitle": "(1220) Review: Klom Pro Electric Pick Gun (JUNK)",
@@ -11009,6 +11139,16 @@
       "prefix": "bb",
       "shortTitle": "Challenge: Bill Clegg",
       "url": "https://www.youtube.com/watch?v=VNpM3OjczKM"
+    },
+    {
+      "fullTitle": "(1226) Whipped: Thor's \"H@ndcuff3d\" Challenge Lock",
+      "id": "tEeKp8OvvvI",
+      "manufacturer": null,
+      "number": 1226,
+      "playlistId": "PLTSWkYxuSlkW_G_3Ml-R6qD7eZ8u1fxSy",
+      "prefix": "bb",
+      "shortTitle": "Whipped: Thor's \"H@ndcuff3d\" Challenge Lock",
+      "url": "https://www.youtube.com/watch?v=tEeKp8OvvvI"
     },
     {
       "fullTitle": "(1227) ReLook: Thor's H@ndcuff3d",
@@ -11509,6 +11649,16 @@
       "prefix": "bb",
       "shortTitle": "Kryptonite 851127KA Opening Secret",
       "url": "https://www.youtube.com/watch?v=W_SgUXncTSY"
+    },
+    {
+      "fullTitle": "(1280) Review: Knog Strongman Bicycle Lock",
+      "id": "ytE4BHSM6TQ",
+      "manufacturer": null,
+      "number": 1280,
+      "playlistId": "PLTSWkYxuSlkW_G_3Ml-R6qD7eZ8u1fxSy",
+      "prefix": "bb",
+      "shortTitle": "Review: Knog Strongman Bicycle Lock",
+      "url": "https://www.youtube.com/watch?v=ytE4BHSM6TQ"
     },
     {
       "fullTitle": "(1281) Kenaurd Pin-in-Pin Lock Picking Tips",
